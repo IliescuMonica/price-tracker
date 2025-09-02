@@ -1,6 +1,6 @@
 # Welcome to my **Day 47 Python Project!** 🚀  
 
-This project is part of **Angela Yu's 100 Days of Code Python course**.  
+This project is part of **Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp course**.  
 It is an **automated Price Tracker** that monitors the price of any product online and **notifies you via email** when it drops below a target price.  It’s a hands-on exercise in **web scraping, data processing, and automation**.  
 
 ---
