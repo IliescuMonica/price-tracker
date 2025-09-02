@@ -26,7 +26,9 @@ Here’s a preview of the Price Tracker in action:
 
 - **Python 3**  
 - `requests` & `BeautifulSoup` for scraping  
-- `dotenv` for **secure credential management**  
+- `dotenv` for **secure credential management**
+- **SMTP (smtplib)** – sending email notifications when the price drops
+- **dotenv** – loading sensitive credentials from a `.env` file
 
 ---
 
